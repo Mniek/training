@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540736976 source:i:\projektyc\wskaznikifabian\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+
